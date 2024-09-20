@@ -1,0 +1,25 @@
+body {background-image: url("https://wallpapercave.com/wp/wp11468678.jpg");}
+
+.container-titulo {padding-top: 140px ;}
+
+.titulo {font-family: "Griffy", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 60px;
+        color: white; text-align: center; margin-top: 40px;
+        margin-bottom: 0.00px;}
+
+p {color: white; text-align: center;}
+
+.jogos {display: flex;
+    justify-content: center;
+    gap: 10px;
+    .jogo {border-radius:10px; width: 224px; height: 330px;}
+    .jogo:hover {opacity: 0.8;}}
+
+.musica {display: flex;
+    justify-content: center;}
+
+.gif {display: flex;
+    justify-content: center;
+    .gato {margin-top: 40px; width: 80px; height: 80px;}}
